@@ -11,7 +11,7 @@ License:
 /* BASIC HTML
 ========================================================*/
 body {
-  background-color: #f7f7f7;
+  background-color: #ffffff;
   color: #666;
   font-size: 65%;
   line-height: 1.5;
@@ -79,7 +79,7 @@ a {
   -ms-transition: all .2s;
   -o-transition: all .2s;
 }
-a:hover { background: #ffc; }
+a:hover { background: #cdcdcd; }
 table {
   width: 100%;
   font-size: 1.4em;
